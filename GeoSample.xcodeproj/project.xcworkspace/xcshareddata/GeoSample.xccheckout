@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BA8F91B4-2318-47CC-8D6F-2422687BF94C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GeoSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9F87117B-1D04-41F1-BEC7-D1156A925BB9</key>
+		<string>https://github.com/KiiPlatform/GeoSample-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GeoSample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9F87117B-1D04-41F1-BEC7-D1156A925BB9</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/KiiPlatform/GeoSample-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9F87117B-1D04-41F1-BEC7-D1156A925BB9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9F87117B-1D04-41F1-BEC7-D1156A925BB9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GeoSample-iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
